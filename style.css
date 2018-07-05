@@ -1,0 +1,43 @@
+img {
+    float: left;
+}
+
+.Links {
+    clear: left;
+    text-align: center;
+    padding: 10px;
+}
+.Header {
+    text-align: center;
+    border: 3px solid black;
+}
+body {
+    background-color: lightgray;
+}
+
+.Myname {
+	text-align: center;
+}
+
+.Contacts {
+	text-align: center
+}
+
+
+}
+
+.Biography {
+    text-align: left;
+     
+}
+
+.Address {
+	text-align: center;
+	border: 2px solid black;
+}
+
+.BiographyPara {
+    border-style: solid;
+    border-width: 3px;
+
+}
